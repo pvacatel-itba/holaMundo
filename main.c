@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Programa que saluda al mundo
 int main(void)
 {
 	printf("Hola Mundo\n");
